@@ -8,5 +8,3 @@
 
 🌱 I’m currently learning React and Vue
 
-✨2022 Goals: Own a way better portfolio site, get familiarized with majority of Front-End technologiesr.
-
